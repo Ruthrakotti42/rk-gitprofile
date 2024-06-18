@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Figma, React Native**
 
-- 👨‍💻 All of my projects are available at Portfolio https://ubiquitous-parfait-aa0cb8.netlify.app/
+- 👨‍💻 All of my projects are available at **[Portfolio Link](https://ubiquitous-parfait-aa0cb8.netlify.app/)**
 
 - 💬 Ask me about **React, python**
 
 - 📫 How to reach me **ruthrakottifsd369@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1u8BN8WVbAT_FT0K2RVfcxub7CoXL0ivC/view?usp=drive_link](https://drive.google.com/file/d/1WvhnnI1vtJEmuLIpKNd6n9SNCxGbFPu8/view?usp=drive_link)]
+- 📄 Know about my experiences **[Resume Link](https://drive.google.com/file/d/1WvhnnI1vtJEmuLIpKNd6n9SNCxGbFPu8/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
